@@ -1,4 +1,4 @@
-"_embedded":{"episodes":[{
+[{
 	"name": "Deadpool",
 	"url": {
 		"small": "https://api.androidhive.info/images/glide/small/deadpool.jpg",
@@ -105,4 +105,4 @@
 		"large": "https://api.androidhive.info/images/glide/large/xmen.jpg"
 	},
 	"timestamp": "May 27, 2016"
-}}]}
+}]
