@@ -1,0 +1,30 @@
+{
+  "version":"v2.1",
+  "GPT":[
+    {
+    "id":"1",
+	"product_name":"Mobile",
+	"product_img":"https:\/\/uniqueandrocode.000webhostapp.com\/hiren\/horizontal\/mobile\/1.jpg"
+    },
+    {
+     "id":"2",
+	 "product_name":"Laptop",
+	 "product_img":"https:\/\/uniqueandrocode.000webhostapp.com\/hiren\/horizontal\/laptop\/1.jpg"
+    },
+    {
+    "id":"3",
+	"product_name":"Mobile",
+	"product_img":"https:\/\/uniqueandrocode.000webhostapp.com\/hiren\/horizontal\/mobile\/2.jpg"
+    },
+    {
+    "id":"4",
+	"product_name":"Laptop",
+	"product_img":"https:\/\/uniqueandrocode.000webhostapp.com\/hiren\/horizontal\/laptop\/2.jpg"
+    },
+    {
+    "id":"5",
+	"product_name":"Mobile",
+	"product_img":"https:\/\/uniqueandrocode.000webhostapp.com\/hiren\/horizontal\/mobile\/3.jpg"
+    }
+    ]
+}
